@@ -1,0 +1,6 @@
+{
+  "name": "CampVerse — Campus Event Discovery",
+  "description": "Editorial campus event discovery platform connecting students with hackathons, design meetups, workshops, and cultural festivals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
